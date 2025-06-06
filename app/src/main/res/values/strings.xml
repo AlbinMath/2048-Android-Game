@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="game_title">2048</string>
+    <string name="play_button">Play</string>
+    <string name="exit_button">Exit</string>
+    <string name="game_instructions">Swipe to move tiles. Combine tiles with the same number to reach 2048!</string>
+    <string name="score_default">Score: 0</string>
+    <string name="high_score_default">High: 0</string>
+    <string name="moves_default">Moves: 0</string>
+    <string name="new_game">New Game</string>
+
+</resources>

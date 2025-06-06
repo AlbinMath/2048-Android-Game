@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Theme colors -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- Dark theme colors -->
+    <color name="background_color">#121212</color>
+    <color name="grid_background">#1E1E1E</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="button_color">#7A9D4F</color>
+
+    <!-- Light theme colors -->
+    <color name="background_color2">#faf8ef</color>
+    <color name="grid_background2">#bbada0</color>
+    <color name="text_color2">#776e65</color>
+    <color name="button_color2">#8f7a66</color>
+
+    <!-- Tile colors -->
+    <color name="tile_default">#2D2D2D</color> <!-- Added default tile color -->
+    <color name="tile_0">#2D2D2D</color>
+    <color name="tile_2">#A5CA6B</color>
+    <color name="tile_4">#7A9D4F</color>
+    <color name="tile_8">#EE6B6E</color>
+    <color name="tile_16">#F7B801</color>
+    <color name="tile_32">#96CDFA</color>
+    <color name="tile_64">#588B8B</color>
+    <color name="tile_128">#FF9F1C</color>
+    <color name="tile_256">#E71D36</color>
+    <color name="tile_512">#2EC4B6</color>
+    <color name="tile_1024">#011627</color>
+    <color name="tile_2048">#FF3366</color>
+
+    <!-- Text colors for tiles -->
+    <color name="text_0">#00000000</color> <!-- Transparent for empty tiles -->
+    <color name="text_2">#FFFFFF</color>
+    <color name="text_4">#FFFFFF</color>
+    <color name="text_8">#FFFFFF</color>
+    <color name="text_16">#FFFFFF</color>
+    <color name="text_32">#FFFFFF</color>
+    <color name="text_64">#FFFFFF</color>
+    <color name="text_128">#FFFFFF</color>
+    <color name="text_256">#FFFFFF</color>
+    <color name="text_512">#FFFFFF</color>
+    <color name="text_1024">#FFFFFF</color>
+    <color name="text_2048">#FFFFFF</color>
+</resources>
