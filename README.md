@@ -96,6 +96,6 @@ Adjust dimensions in `res/values/dimens.xml` for spacing and tile size.
 ```bash
 ./gradlew assembleRelease
 ```
-
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
